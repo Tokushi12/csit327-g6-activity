@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G6
+- Favorite Language: Java HTML CSS
+- One Git Tip Learned: git checkout is useful
+- GitHub: @Tokushi12
